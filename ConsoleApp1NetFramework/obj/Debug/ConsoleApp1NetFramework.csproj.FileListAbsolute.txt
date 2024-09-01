@@ -1,0 +1,8 @@
+D:\PruebaTecnica\NetFramework\NetFramework\ConsoleApp1NetFramework\bin\Debug\Config.xml
+D:\PruebaTecnica\NetFramework\NetFramework\ConsoleApp1NetFramework\bin\Debug\ConsoleApp1NetFramework.exe.config
+D:\PruebaTecnica\NetFramework\NetFramework\ConsoleApp1NetFramework\bin\Debug\ConsoleApp1NetFramework.exe
+D:\PruebaTecnica\NetFramework\NetFramework\ConsoleApp1NetFramework\bin\Debug\ConsoleApp1NetFramework.pdb
+D:\PruebaTecnica\NetFramework\NetFramework\ConsoleApp1NetFramework\obj\Debug\ConsoleApp1NetFramework.csproj.AssemblyReference.cache
+D:\PruebaTecnica\NetFramework\NetFramework\ConsoleApp1NetFramework\obj\Debug\ConsoleApp1NetFramework.csproj.CoreCompileInputs.cache
+D:\PruebaTecnica\NetFramework\NetFramework\ConsoleApp1NetFramework\obj\Debug\ConsoleApp1NetFramework.exe
+D:\PruebaTecnica\NetFramework\NetFramework\ConsoleApp1NetFramework\obj\Debug\ConsoleApp1NetFramework.pdb
